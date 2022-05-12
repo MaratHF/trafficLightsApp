@@ -11,6 +11,7 @@
 		046F11BA282D7D09006D930F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046F11B9282D7D09006D930F /* ContentView.swift */; };
 		046F11BC282D7D11006D930F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046F11BB282D7D11006D930F /* Assets.xcassets */; };
 		046F11BF282D7D11006D930F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046F11BE282D7D11006D930F /* Preview Assets.xcassets */; };
+		046F11C6282D7DD2006D930F /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046F11C5282D7DD2006D930F /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		046F11B9282D7D09006D930F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		046F11BB282D7D11006D930F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		046F11BE282D7D11006D930F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		046F11C5282D7DD2006D930F /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				046F11B7282D7D09006D930F /* trafficLightsAppApp.swift */,
+				046F11C5282D7DD2006D930F /* CircleView.swift */,
 				046F11B9282D7D09006D930F /* ContentView.swift */,
 				046F11BB282D7D11006D930F /* Assets.xcassets */,
 				046F11BD282D7D11006D930F /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				046F11C6282D7DD2006D930F /* CircleView.swift in Sources */,
 				046F11BA282D7D09006D930F /* ContentView.swift in Sources */,
 				046F11B8282D7D09006D930F /* trafficLightsAppApp.swift in Sources */,
 			);
